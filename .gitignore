@@ -1,0 +1,77 @@
+#########################
+# ROS2 Build System
+#########################
+build/
+install/
+log/
+.colcon/
+*.bag
+*.db3
+*.rviz
+*.pyc
+#########################
+# ROS2 Parameters / Config / Launch
+#########################
+*.yaml
+*.launch.py
+*.launch
+*.params
+*.world
+#########################
+# Python
+#########################
+pycache/
+*.py[cod]
+*.pyo
+*.egg
+*.egg-info/
+.eggs/
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.ipynb_checkpoints
+#########################
+# C++ / CMake
+#########################
+*.o
+*.so
+*.a
+*.out
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+Makefile
+#########################
+# IDEs and Editors
+#########################
+*.Vim
+*.swp
+*.sw
+#########################
+# OS-Specific
+#########################
+.DS_Store
+Thumbs.db
+#########################
+# Logs and Debugging
+#########################
+*.log
+*.csv
+*.tmp
+.bak
+#########################
+# Data
+#########################
+data/experimental_data/
+data/simulation_data/*
+!data/experimental_data/.gitkeep
+!data/simulation_data/.gitkeep
+#########################
+# Docker
+#########################
+*.pid
+*.sock
+docker-compose.override.yml
