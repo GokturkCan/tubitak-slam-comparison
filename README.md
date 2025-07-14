@@ -79,12 +79,6 @@ For detailed technical notes, setup guides, and reports, please visit the projec
 
 ---
 
-## Contributing
-
-We welcome contributions! Please see the **[CONTRIBUTING.md](CONTRIBUTING.md)** (coming soon) for guidelines on how to get involved.
- 
----
-
 ## License
 
 This project is licensed under the **[MIT License](https://opensource.org/licenses/MIT)**.  
