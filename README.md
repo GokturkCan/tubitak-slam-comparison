@@ -32,13 +32,15 @@ The project investigates and implements the following:
 
 ---
 
-## Team
+## Project Team
 
-| Role               | Name               |
-|--------------------|--------------------|
-| Project Coordinator | Ulaş Şahin         |
-| Supervisor          | Necip Gözüaçık     |
-| Team Members        | Göktürk Can, İbrahim Çavdar, Ezgi Altıok |
+| Name               | Role                |
+|--------------------|---------------------|
+| Ulaş Şahin         | Project Coordinator |
+| Necip Gözüaçık     | Academic Supervisor |
+| Göktürk Can        | Research Assistant  |
+| İbrahim Çavdar     | Research Assistant  |
+| Ezgi Altıok        | Research Assistant  |
 
 ---
 
