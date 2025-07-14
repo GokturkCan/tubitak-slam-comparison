@@ -37,7 +37,7 @@ The project investigates and implements the following:
 | Name               | Role                |
 |--------------------|---------------------|
 | Ulaş Şahin         | Project Coordinator |
-| Necip Gözüaçık     | Academic Supervisor |
+| Dr.Necip Gözüaçık     | Academic Supervisor |
 | Göktürk Can        | Research Assistant  |
 | İbrahim Çavdar     | Research Assistant  |
 | Ezgi Altıok        | Research Assistant  |
