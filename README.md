@@ -20,7 +20,7 @@ The project investigates and implements the following:
   - GMapping SLAM  
   - Hector SLAM  
   - Cartographer SLAM  
-  - Slam Toolbox
+  - SLAM Toolbox
 
 - **Autonomous Navigation**
   - Integration with **ROS2 Nav2**
